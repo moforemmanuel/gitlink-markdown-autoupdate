@@ -11,7 +11,7 @@ This class provides functionality for manipulating with users.
 
 ### Methods
 
-### `__init__(self) -> None` [[view source](/src/models/user_model.py#L5-L7{:target="_blank"})]
+### `__init__(self) -> None` [[view source](/src/models/user_model.py#L5-L7)]
 
 Initializes an User_Model instance.
 
