@@ -11,7 +11,7 @@ This class provides functionality for manipulating with users.
 
 ### Methods
 
-### `__init__(self) -> None` [[view source](/src/models/user_model.py#L5-L7)]
+### `__init__(self) -> None` [[view source](/src/models/user_model.py#L5-L7{:target="_blank"})]
 
 Initializes an User_Model instance.
 
@@ -29,7 +29,7 @@ user = User_Model('John Doe', 37)
 
 This is just a dummy project to implement a core functionality of documentation generator; automatic file referencing/linking.
 
-### `get_name(self) -> str` [[view source](https://github.com/{}/SMSwithoutborders-BE/blob/27ad8d4ed81ef73581515c2b2b17274d0fbaca72/src/models/grants.py#L45-L89)]
+### `get_name(self) -> str` [[view source](/src/models/user_model.py#L9-L12)]
 
 Gets the user's names.
 
@@ -52,7 +52,7 @@ user = User_Model('John Doe', 37)
 print(user.get_name())
 ```
 
-### `get_age(self) -> str` [[view source](https://github.com/smswithoutborders/SMSwithoutborders-BE/blob/27ad8d4ed81ef73581515c2b2b17274d0fbaca72/src/models/grants.py#L45-L89)]
+### `get_age(self) -> str` [[view source](/src/models/user_model.py#L14-L15)]
 
 Gets the user's age.
 
